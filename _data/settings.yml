@@ -31,7 +31,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://www.johnerikfraker.com/home-worth/
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.johnerikfraker.com/home-search/#/865619127
+  second_CTA_URL: http://johnfraker.realscout.me/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -45,7 +45,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.johnerikfraker.com/home-search/#/865619127
+    CTA_url2: http://johnfraker.realscout.me/
 
 lender:
   show_section: false
