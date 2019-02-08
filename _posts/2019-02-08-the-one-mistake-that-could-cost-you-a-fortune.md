@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The One Mistake That Could Cost You a Fortune
-date:
+date: 2019-02-08 21:44:50
 tags:
   - Home Buyer Tips
 excerpt: >-
