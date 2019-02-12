@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The One Mistake That Could Cost You a Fortune
-date: 2019-02-08 21:44:50
+date: 2019-02-08 21:44:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2-8-joint-tenants-yt.jpg
-youtube_code: b1KeU-ywN0A
+youtube_code: V6I4urst9Kw
 ---
 
 {% include youtube.html %}
