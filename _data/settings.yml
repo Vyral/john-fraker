@@ -15,7 +15,11 @@ client:
   title:
   license_number:
   about_markdown: |
+    As a Private Client Attorney since 1999, I have had the privilege of representing many of Silicon Valley’s most successful families with their Estate Planning, Asset Protection and Real Estate needs.
 
+    I am a zealous advocate for my clients, whether representing them in the buying or selling of real estate, or in the planning of their Estates.
+
+    As a Silicon Valley native, I have seen first-hand how the long-term appreciation of real estate and the financial success of my clients goes hand in hand.
   brand:
   brokerage: Keller Williams
   market:
@@ -29,7 +33,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.johnerikfraker.com/home-worth/
+  first_CTA_URL: https://www.johnerikfraker.com/home-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: http://johnfraker.realscout.me/
 
@@ -38,7 +42,7 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: https://www.johnerikfraker.com/home-worth/
+    CTA_url: https://www.johnerikfraker.com/home-valuation/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
@@ -84,8 +88,8 @@ podcast:
 
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/logo.png
-  logo_width_number: 30
+  hero_logo_path: /img/name.png
+  logo_width_number: 60
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
