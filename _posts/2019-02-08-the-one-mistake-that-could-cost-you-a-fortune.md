@@ -34,7 +34,7 @@ Let me give you an example. I worked with a family for many years and the parent
 {% include pullquote.html %}
 {: .present-before-paste}
 
-They still wanted to sell the home to get the money for their mother’s health care. Because the property was held in joint tenancy, however, they didn’t get nearly as much on the home sale as they could have.
+They still wanted to sell the home to get the money for their mother’s health care. Because the property was held in joint tenancy, however, they were facing a tax bill of several hundred thousand dollars! All because the deed was in joint tenancy, not community property.
 {: .present-before-paste}
 
 Obviously, I can’t give you legal advice. However, if you'd like to take a look at your deed to see how your property is titled, don’t hesitate to give me a call or send me an email. I can also refer you to an attorney or CPA in your area who can help you decide what's right for your family.
