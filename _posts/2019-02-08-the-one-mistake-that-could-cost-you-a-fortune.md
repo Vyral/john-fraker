@@ -22,7 +22,7 @@ youtube_code: V6I4urst9Kw
 {% include youtube.html %}
 {: .present-before-paste}
 
-I’ve seen husbands and wives make one frequent mistake that ends up costing them hundreds of thousands of dollars on the sale of their home. **That mistake is holding title as joint tenants rather than as community property.**
+I’ve seen husbands and wives make one frequent mistake that can end up costing them hundreds of thousands of dollars on the sale of their home. **That mistake is holding title as joint tenants rather than as community property.**
 {: .present-before-paste}
 
 Why is this a problem? Well, for capital gains purposes, if a husband and wife own a home as a community property and one spouse dies, **it will eliminate all of your capital gains taxes.** If you own the home as joint tenants, however, you’re only going to eliminate half of your capital gains exposure.
