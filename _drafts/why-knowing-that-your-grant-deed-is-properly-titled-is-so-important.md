@@ -5,9 +5,7 @@ date: 2019-02-26 21:44:00
 tags:
   - Home Buyer Tips
   - Real Estate
-excerpt: >-
-  There’s one mistake that can cost homeowners hundreds of thousands of dollars
-  on the sale of their property. Here’s what it is.
+excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/John+Fraker/Why+Knowing+That+Your+Grant+Deed+is+Properly+Titled+Is+So+Important.mp4
 pullquote: I’d be happy to get you a complimentary copy of your property’s grant deed.
