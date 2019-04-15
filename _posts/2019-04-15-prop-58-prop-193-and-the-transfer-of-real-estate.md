@@ -18,12 +18,12 @@ youtube_code: 42Dd36NkM-E
 
 {% include youtube.html %}
 
-What are Prop 58 and Prop 193 and how do they work?&nbsp;
+What are Prop 58 and Prop 193 and how do they work? 
 
-**Prop 58 allows a parent to transfer property to their children and maintain their very low Prop 13 basis.** This can happen in a couple of different situations. The parent can transfer their property to their child while they’re alive, or it can be transferred through a trust or through their estate after they pass away.&nbsp;
+**Prop 58 allows a parent to transfer property to their children and maintain their very low Prop 13 basis.** This can happen in a couple of different situations. The parent can transfer their property to their child while they’re alive, or it can be transferred through a trust or through their estate after they pass away. 
 
 **Prop 193 essentially does the same thing, except for grandparent-grandchild transfers.** The only difference is, if the middle-generation child is still alive, this exemption doesn’t work. We actually once had a client learn this only after they tried transferring their property to their child and grandchild—they ended up getting reassessed the portion they intended for the grandchild.
 
-If you’d like to know more about these propositions, we have a link to the Board of Equalization’s website on our website that will answer all of your questions.&nbsp;
+If you’d like to know more about these propositions, we have a link to the Board of Equalization’s website on our website that will answer all of your questions. 
 
 If you have any other real estate needs, feel free to give me a call or send me an email. I’d be happy to help you.
