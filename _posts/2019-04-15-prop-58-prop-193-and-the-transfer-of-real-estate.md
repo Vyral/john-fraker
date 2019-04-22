@@ -18,12 +18,14 @@ youtube_code: 42Dd36NkM-E
 
 {% include youtube.html %}
 
-What are Prop 58 and Prop 193 and how do they work? 
+What are Prop 58 and Prop 193 and how do they work?&nbsp;
 
-**Prop 58 allows a parent to transfer property to their children and maintain their very low Prop 13 basis.** This can happen in a couple of different situations. The parent can transfer their property to their child while they’re alive, or it can be transferred through a trust or through their estate after they pass away. 
+**Proposition 58 allows a parent to transfer property to their children and maintain their very low Prop 13 basis.** This can happen in a couple of different situations. The parent can transfer their property to their child while they’re alive, or it can be transferred through a trust or through their estate after they pass away.&nbsp; We recently helped a client sell his property to his son, and his son was able to take his parents’ very low Proposition 13 basis – saving them a ton on property taxes\!
 
-**Prop 193 essentially does the same thing, except for grandparent-grandchild transfers.** The only difference is, if the middle-generation child is still alive, this exemption doesn’t work. We actually once had a client learn this only after they tried transferring their property to their child and grandchild—they ended up getting reassessed the portion they intended for the grandchild.
+**Prop 193 essentially does the same thing, except for grandparent-grandchild transfers.** The only difference is, if the middle-generation child is still alive, this exemption doesn’t work. We once had a client learn this the hard way.&nbsp; They came to us after they had transferred their property to their child and grandchild.&nbsp; Unfortunately they ended up getting reassessed on the portion of their home that they transferred to their grandchild, because the grandchild’s parent was still alive.
 
-If you’d like to know more about these propositions, we have a link to the Board of Equalization’s website on our website that will answer all of your questions. 
+If you’d like to know more about these propositions, here is a link to the Board of Equalization’s website:&nbsp;[http://www.boe.ca.gov/proptaxes/faqs/propositions58.htm](http://www.boe.ca.gov/proptaxes/faqs/propositions58.htm){: target="_blank"}
 
-If you have any other real estate needs, feel free to give me a call or send me an email. I’d be happy to help you.
+If you have any other real estate needs, feel free to give me a call or send me an email.
+
+I’d be happy to help you.
