@@ -16,7 +16,7 @@ youtube_code: P60MCLyDhyo
 ---
 {% include youtube.html %}
 
-*Here’s how to start incorporating real estate into your retirement portfolio.*
+<center><em>Here’s how to start incorporating real estate into your retirement portfolio.</em></center>
 
 A lot of aspiring investors often ask me if it’s possible to start investing in real estate through their individual retirement account (IRA) of 401k. To help answer this question for you, I recently sat down with Haley Gant, an IRA specialist at Quest Trust Company who has a ton of useful knowledge on this topic. If you’re like most people, you’re under the impression that the only way to structure your retirement funds is around publicly traded assets. Thankfully, there is a bounty of other options. Let’s explore them, shall we?&nbsp;
 
