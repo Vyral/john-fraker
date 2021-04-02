@@ -36,4 +36,4 @@ A lot of aspiring investors often ask me if it’s possible to start investing i
 
 11:50 — Wrapping up today’s topic, and the best way to get ahold of Haley and the Quest team&nbsp;
 
-I hope you found value in this discussion. Special thanks to Haley for joining us, and to Quest Trust Company for all the great work they do. To check out some of their awesome educational materials, head to [questtrust.com.](https://www.questtrust.com/)&nbsp;&nbsp;
+I hope you found value in this discussion. Special thanks to Haley for joining us, and to Quest Trust Company for all the great work they do. To check out some of their awesome educational materials, head to [questtrust.com.](https://www.questtrust.com/){: target="_blank" rel="noopener"}&nbsp;&nbsp;
